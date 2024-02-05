@@ -1,0 +1,6 @@
+a=input("enter the number :")
+b=input("enter the number :")
+if(a<b):
+    print("a is less than to b")
+else:
+    print("a is grater than to b ")
